@@ -6,7 +6,7 @@ Dashboard can be seen at https://public.tableau.com/app/profile/muhammad.satrio1
 Background:
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India. 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. 
-Marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+My goal is to convert these survey results to meaningful insights which the team can use to drive actions.
 
 Goals:
 1. Understanding Respondent Demographics and Preferences
